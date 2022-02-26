@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoungHuaUSYD
 - 👀 I’m interested in C++ in game programming and python in practice.
-- 🌱 I’m currently learning programming in USYD GD computing programme,in which Data structure and algorithm is quite chanllengable to me currently.
+- 🌱 I’m currently learning programming in GD computing programme of USYD,in which Data structure and algorithm is quite chanllengable to me currently.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
